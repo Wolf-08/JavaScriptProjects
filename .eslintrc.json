@@ -1,0 +1,10 @@
+//Formas de validación de estilos de codigo
+//Instalación de eslint npm i -g eslint
+{
+  "parserOptions":{
+    "ecmaVersion": 6
+  },
+  "rules": {
+    "semi":["error","always"]
+  }
+}
